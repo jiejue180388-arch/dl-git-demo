@@ -1,0 +1,4 @@
+batch_size: 128
+epochs: 1
+experiment: baseline
+lr: 0.001
