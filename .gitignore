@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.pyc
+# virtual env
+env/
+venv/
+# data / models / logs
+data/
+models/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+# jupyter
+.ipynb_checkpoints
